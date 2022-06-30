@@ -5,7 +5,8 @@
 
 ## Hmmmm what is it ?
 ![pic](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fdiscordapp.com%2Fassets%2F4ff060e44afc171e9622fbe589c2c09e.png&f=1&nofb=1)  
-__DDoSCord is a little tool for having fun on discord...__  
+__DDoSCord is a little tool for having fun on discord...__ 
+Actually in progress so you will soon see what the real goal of this project... I swear it will be nice 😁
 Instructions about installation and how to use it down there :)
 
 ## Table of contents
