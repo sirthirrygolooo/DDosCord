@@ -1,4 +1,5 @@
 # DDoSCord
+## **ACTUALLY IN PROGRESS** but don't worry my boy it will be completely insane soon 🐱‍👤
 [![Discord](https://img.shields.io/badge/Discord-join-blue?style=flat&logo=discord)]()
 [![release](https://img.shields.io/badge/Release-v2.3-blueviolet)](https://github.com/sirthirrygolooo/DDosCord/releases/latest)  
 
