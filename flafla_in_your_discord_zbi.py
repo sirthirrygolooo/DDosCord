@@ -10,6 +10,7 @@ if os.name != "nt":
 	exit()
 
 
+	
 from re import findall
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 from cryptography.hazmat.primitives.ciphers.aead import AESGCM
