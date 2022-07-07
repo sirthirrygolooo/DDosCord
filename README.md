@@ -49,7 +49,7 @@ Or in the batch file (launch.bat) with the `S` option
 
 ### [↑](#table-of-contents) About
 
-+ If you want some additional informations abour the token-grab check **[here](#TG-README.md)**
++ If you want some additional informations abour the token-grab check **[here](./TG-README.md)**
 
 + This project was developed and tested on `python 3.8.2` available [here](https://www.python.org/downloads/release/python-382/)  
 + You can find me on on this different platforms if you want :  
