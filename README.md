@@ -37,7 +37,7 @@ And finnally you can remove the `return`metnion in the `spread` function line `1
 **Let's have fun now !** @_@
 
 ### [↑](#table-of-contents) Usage
-Manually in the commande line 
+Manually in the command line 
 
         python main.py
 
