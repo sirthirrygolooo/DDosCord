@@ -12,7 +12,7 @@ Instructions about installation and how to use it down there :)
 
 ## Table of contents
   - [Installation](#-installation)
-  - [Setting UP](#-setting-up)
+  - [Setting Up](#-setting-up)
   - [Usage](#-usage)
   - [About](#-about)
 
