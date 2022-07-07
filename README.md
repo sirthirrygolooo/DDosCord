@@ -65,3 +65,4 @@ Or in the batch file (launch.bat) with the `S` option
 ![bongo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Forig00.deviantart.net%2F7415%2Ff%2F2018%2F281%2F5%2Fe%2Fmeeko___novakyr___bongo_cat_meme_by_bashfulbasil-dcoxryh.gif&f=1&nofb=1)
 
 This tool is for educational and trolling purpose only so take care :)
+Btw I'm not responsible for what you are doing with it... 🐱‍👤
