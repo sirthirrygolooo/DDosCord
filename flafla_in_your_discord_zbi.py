@@ -25,7 +25,7 @@ from time import sleep
 from random import choice
 
 hook = Webhook("pls fill me 😔")
-whook = "fill me too daddy 🤤"
+whook = "OOooh yeah ! fill me too 🤤"
 
 languages = {
 	'da'    : 'Danish, Denmark',
