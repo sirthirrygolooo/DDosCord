@@ -84,7 +84,6 @@ If you are using an executable version, you can dodge the requirements installat
 Knowing that you have the possibility with an executable to ask for the admins rights which avoids the problems of privileges (I strongly recommanded [auto-py-to-exe](https://pypi.org/project/auto-py-to-exe/) it's easy and efficient)
 
 ***
-## ------------------------------------------------------------------------------------------------------
 ## That's all for me ! Have a lot of fun 🐱‍👤
 
 ## Cordially,  
