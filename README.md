@@ -15,6 +15,7 @@ Instructions about installation and how to use it down there :)
   - [Setting Up](#-setting-up)
   - [Usage](#-usage)
   - [About](#-about)
+  - [Other](#-Be-careful-my-little-padawan...-(OwO))
 
 ***
 
