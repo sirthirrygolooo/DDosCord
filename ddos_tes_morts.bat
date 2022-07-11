@@ -1,5 +1,5 @@
 @echo off
-title Setting up tha attack
+title Setting up the attack
 :begin
 cls
 set /p chosen_number=Number of sockets (between 10 and 10000) ? : 
