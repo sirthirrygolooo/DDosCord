@@ -36,7 +36,7 @@ pause
 GOTO MAIN
 
 :END
-CHOICE /c YN /m "Voulez vous vraiment quitter ? "
+CHOICE /c YN /m "Quit the launcher ? "
 
 REM confirmation du choix
 IF ERRORLEVEL 2 GOTO MAIN
