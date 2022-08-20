@@ -1,6 +1,6 @@
 # DDoSCord
 
-## Outdated due to an update of urllib pytohn librarybut working on it 🛠
+## Outdated because of an update of urllib python library but i will working on it 🛠
 
 ## **ACTUALLY IN PROGRESS** but don't worry my boy it will be completely insane soon 🐱‍👤
 [![Discord](https://img.shields.io/badge/Discord-join-blue?style=flat&logo=discord)]()
