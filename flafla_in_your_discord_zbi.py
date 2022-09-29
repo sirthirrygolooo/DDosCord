@@ -1,7 +1,4 @@
 # Don't fuckin touch the profile pics i put @_@
-# respect my work !
-# That's the only rule and condition about this ^^
-
 
 import sys, os, ctypes, shutil, base64, sqlite3, zipfile, subprocess
 import platform as plt
