@@ -60,7 +60,7 @@ The different fonctionalities of my discord Token Grabber
 
 ### Some other things to know about 
 
-You can easily convert the file in an executable but keep in mind that the targets must have python on their pc
+You can easily convert the file in an executable with any converter
 
 If you are using an executable version, you can dodge the requirements installation phase by adding this :  
 
