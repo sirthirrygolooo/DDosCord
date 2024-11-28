@@ -6,7 +6,7 @@
 
 ## Outdated because of an update of urllib python library but i will working on it 🛠
 
-## **ACTUALLY IN PROGRESS** but don't worry my boy it will be completely insane soon 🐱‍👤
+## **ACTUALLY IN PROGRESS**
 [![Discord](https://img.shields.io/badge/Discord-join-blue?style=flat&logo=discord)]()
 [![release](https://img.shields.io/badge/Release-v2.3-blueviolet)](https://github.com/sirthirrygolooo/DDosCord/releases/latest)  
 
@@ -39,8 +39,6 @@ You need to add your webhook adress on `line 21` and `line 22` (discord webhook 
 You can also choose what kind of infos you want to grab in bonus by removing or adding `creditsteal()` , `passwordsteal()` or `creditsteals()`(version for edge) on lines `416`, `417` and `418`
 
 And finnally you can remove the `return`metnion in the `spread` function line `160` if you want to enable the spreading in target's dms...
-
-**Let's have fun now !** @_@
 
 ### [↑](#table-of-contents) Usage
 Manually in the command line 
