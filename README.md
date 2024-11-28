@@ -2,6 +2,7 @@
 
 # 📢 This project was a test and project about fake ddos tool for discord coupled with a token and other account (or not) informations grabber
 # It was only for educational purpose and never used in a wrong way
+" I keep it public because even if the python script is now outdated, it still interessant
 # OUTDATED PROJECT AND README 🗑️
 
 ## Outdated because of an update of urllib python library but i will working on it 🛠
