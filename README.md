@@ -1,5 +1,10 @@
 # DDoSCord
 
+# This project was a test and project about fake ddos tool for discord but we can also find an outdated token-grabber and other informations grabber
+# It was only for educational purpose and never used in a wrong way
+
+# OUTDATED README BELOW
+
 ## Outdated because of an update of urllib python library but i will working on it 🛠
 
 ## **ACTUALLY IN PROGRESS** but don't worry my boy it will be completely insane soon 🐱‍👤
@@ -8,8 +13,6 @@
 
 ## Hmmmm what is it ?
 ![pic](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fdiscordapp.com%2Fassets%2F4ff060e44afc171e9622fbe589c2c09e.png&f=1&nofb=1)  
-__DDoSCord is a little tool for having fun on discord...__   
-Actually in progress so you will soon see what the real goal of this project... I swear it will be nice 😁
 
 Instructions about installation and how to use it down there :)
 
@@ -60,13 +63,5 @@ Or in the batch file (launch.bat) with the `S` option
 + You can find me on on this different platforms if you want :  
   + [![discord](https://img.shields.io/badge/My%20discord-%40__%40-blue?style=flat&logo=discord)](https://dsc.bio/sirthirrygolooo)
   + [![github](https://img.shields.io/badge/My%20github-%3C%2F%3E-lightgrey?style=flat&logo=github)](https://github.com/sirthirrygolooo)
-+ Or giving me some support for the great work i made 😉
-  + [![paypal](https://img.shields.io/badge/Paypal-%3C3-blue?style=flat&logo=paypal)](https://paypal.me/dlamoulaaaa)
 
 ***
-### [↑](#table-of-contents) Be careful my little padawan... (OwO) 
-
-![bongo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Forig00.deviantart.net%2F7415%2Ff%2F2018%2F281%2F5%2Fe%2Fmeeko___novakyr___bongo_cat_meme_by_bashfulbasil-dcoxryh.gif&f=1&nofb=1)
-
-This tool is for educational and trolling purpose only so take care :)  
-Btw I'm not responsible for what you are doing with it... 🐱‍👤
