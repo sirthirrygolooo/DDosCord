@@ -1,9 +1,9 @@
 # DDoSCord
 
-# This project was a test and project about fake ddos tool for discord but we can also find an outdated token-grabber and other informations grabber
+# This project was a test and project about fake ddos tool for discord coupled with a token and other account (or not) informations grabber
 # It was only for educational purpose and never used in a wrong way
 
-# OUTDATED README BELOW
+# OUTDATED PROJECT AND README
 
 ## Outdated because of an update of urllib python library but i will working on it 🛠
 
