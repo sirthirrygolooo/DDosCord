@@ -1,5 +1,3 @@
-# Don't fuckin touch the profile pics i put @_@
-
 import sys, os, ctypes, shutil, base64, sqlite3, zipfile, subprocess
 import platform as plt
 if os.name != "nt":
